@@ -1,7 +1,7 @@
 name: Update README cards
 on:
   schedule:
-    - cron: "0 3 * * *" 
+    - cron: "0 3 * * *"
   workflow_dispatch:
 jobs:
   build:
@@ -15,6 +15,14 @@ jobs:
           card: stats
           options: username=utsi09&show_icons=true&theme=radical
           path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top langs card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=utsi09&layout=compact&theme=radical
+          path: profile/langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
