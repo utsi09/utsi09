@@ -1,6 +1,5 @@
 # 🚀 Research & Development
 
-![Views](https://komarev.com/ghpvc/?username=utsi09&color=blue&style=for-the-badge)
 
 ### 🔬 Focus Area
 * **Master's Candidate at SKKU**
