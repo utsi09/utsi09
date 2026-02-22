@@ -1,8 +1,15 @@
-## 📊 GitHub Analytics
+# 📊 My GitHub Statistics
 
-<p align="center">
-  <img src="./profile/stats.svg" height="180" />
-  <img src="./profile/langs.svg" height="180" />
+### 📈 Overall Stats
+<p align="left">
+  <img src="./profile/stats.svg" width="450" />
+</p>
+
+<br/>
+
+### 🛠 Most Used Languages
+<p align="left">
+  <img src="./profile/langs.svg" width="450" />
 </p>
 
 ---
