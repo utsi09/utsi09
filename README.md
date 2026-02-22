@@ -1,5 +1,7 @@
 # 🚀 Research & Development
 
+![Views](https://komarev.com/ghpvc/?username=utsi09&color=blue&style=for-the-badge)
+
 ### 🔬 Focus Area
 * **Master's Candidate at SKKU**
 * **Specialization**: Fail-safe systems for Autonomous Vehicles & 3D Bounding Box Perception
