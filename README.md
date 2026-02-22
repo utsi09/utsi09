@@ -14,7 +14,7 @@
 
 ### 📊 GitHub Activity
 <p align="left">
-  <img src="./profile/stats.svg" width="400" /><img src="https://github-readme-stats.vercel.app/api?username=utsi09&show_icons=true&theme=dracula&hide_rank=true" width="400" />
+  <img src="./profile/stats.svg" width="400" />
   <br/>
   <img src="./profile/langs.svg" width="400" />
 </p>
