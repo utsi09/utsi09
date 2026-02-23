@@ -43,8 +43,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/673dced5-20fa-43a1-a107-b4ac5472310b" height="240" />
-  <img src="https://github.com/user-attachments/assets/027af688-d169-4c3f-820c-a88f3aaf37d4" height="240" />
+  <img src="https://github.com/user-attachments/assets/673dced5-20fa-43a1-a107-b4ac5472310b" height="220" />
+  <img src="https://github.com/user-attachments/assets/027af688-d169-4c3f-820c-a88f3aaf37d4" height="220" />
 </p>
 <p align="center">
   <strong>Real-world</strong> | <strong>CARLA Digital Twin Map</strong>
