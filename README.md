@@ -21,6 +21,16 @@
 </p>
 
 ---
+### 📝 Selected Publications
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Say-gRoAAAAJ&hl=ko&oi=sra)
+*For a complete list of publications and citation details, please visit my Google Scholar profile.*
+
+| Year | Title | Conference / Venue | Role | Links |
+|:---:|---|---|:---:|:---:|
+| 2025 | **Behavior Tree-Based Fail-Safe Mechanism for Autonomous Vehicles Using Digital Twin** | *IEEE ICCAS 2025* | 1st Author | [📝 Paper](https://ieeexplore.ieee.org/document/11301083) |
+| 2025 | **Building CARLA Digital Twin Maps Directly from LiDAR-Only Point Clouds** | *ISIS 2025* | 1st Author | [📝 Paper](#) |
+| 2025 | **HD Map-Based High-Precision Digital Twin Map Generation for CARLA Simulation**<br>*(HD Map 기반 CARLA 시뮬레이터 초정밀 디지털트윈 맵 생성)* | *KITS Fall 2025* | 1st Author | [📝 Paper](https://www.earticle.net/Article/A474109) |
+---
 
 ### 🎥 Research Visualization
 <p align="center">
