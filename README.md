@@ -35,16 +35,16 @@
 
 ### 🎥 Research Visualization
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b9a0ac44-75c4-4da0-b93d-1f5a647bb6ca" height="240" />
-  <img src="https://github.com/user-attachments/assets/35b3a613-b7fe-44aa-8a4d-b9b4707a2373" height="240" />
+  <img src="https://github.com/user-attachments/assets/b9a0ac44-75c4-4da0-b93d-1f5a647bb6ca" height="220" />
+  <img src="https://github.com/user-attachments/assets/35b3a613-b7fe-44aa-8a4d-b9b4707a2373" height="220" />
 </p>
 <p align="center">
   <strong>Dynamic Sensor Selection</strong> | <strong>Behavior Tree Logic</strong>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/673dced5-20fa-43a1-a107-b4ac5472310b" height="220" />
-  <img src="https://github.com/user-attachments/assets/027af688-d169-4c3f-820c-a88f3aaf37d4" height="220" />
+  <img src="https://github.com/user-attachments/assets/673dced5-20fa-43a1-a107-b4ac5472310b" height="240" />
+  <img src="https://github.com/user-attachments/assets/027af688-d169-4c3f-820c-a88f3aaf37d4" height="240" />
 </p>
 <p align="center">
   <strong>Real-world</strong> | <strong>CARLA Digital Twin Map</strong>
