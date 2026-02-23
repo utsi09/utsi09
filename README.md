@@ -23,6 +23,7 @@
 ---
 ### 📝 Selected Publications
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Say-gRoAAAAJ&hl=ko&oi=sra)
+
 *For a complete list of publications and citation details, please visit my Google Scholar profile.*
 
 | Year | Title | Conference / Venue | Role | Links |
