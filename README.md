@@ -36,7 +36,7 @@
 ### 🎥 Research Visualization
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b9a0ac44-75c4-4da0-b93d-1f5a647bb6ca" height="240" />
-  <img src="https://github.com/user-attachments/assets/b0e7ae72-5a8d-4aeb-9aec-52898cf62de9" height="240" />
+  <img width="1102" height="401" alt="Image" src="https://github.com/user-attachments/assets/9af5528d-155e-46e0-abd7-c13ab7dca011" height="240" />
 </p>
 <p align="center">
   <strong>Dynamic Sensor Selection</strong> | <strong>Behavior Tree Logic</strong>
