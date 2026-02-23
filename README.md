@@ -3,7 +3,7 @@
 
 ### 🔬 Focus Area
 * **Master's Candidate at SKKU**
-* **Specialization**: Fail-safe systems for Autonomous Vehicles & 3D Bounding Box Perception
+* **Specialization**: Fail-safe systems & Digital Twin & 3D Bounding Box Perception for Autonomous Vehicles 
 * **Tools**: ROS 2 (Humble), C++, Python, CARLA Simulator
 
 ---
