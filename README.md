@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/CARLA-000000?style=for-the-badge&logo=carla&logoColor=white" />
   <img src="https://img.shields.io/badge/BehaviorTree.CPP-v4-FAD02C?style=for-the-badge&logo=gitbook&logoColor=black" />
   <img src="https://img.shields.io/badge/PCL-BC7021?style=for-the-badge&logo=opencv&logoColor=white" /> 
-</p>ttps://img.shields.io/badge/CARLA-000000?style=for-the-badge&logo=carla&logoColor=white)
+</p>
 
 ---
 
