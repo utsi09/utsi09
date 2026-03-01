@@ -9,7 +9,8 @@
 ---
 
 ### 💻 Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![ROS2](https://img.shields.io/badge/ros2-%230A0FF0.svg?style=for-the-badge&logo=ros&logoColor=white) ![BehaviorTree.CPP](https://img.shields.io/badge/BehaviorTree.CPP-v4-FAD02C?style=for-the-badge&logo=gitbook&logoColor=black)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![ROS2](https://img.shields.io/badge/ros2-%230A0FF0.svg?style=for-the-badge&logo=ros&logoColor=white) ![BehaviorTree.CPP](https://img.shields.io/badge/BehaviorTree.CPP-v4-FAD02C?style=for-the-badge&logo=gitbook&logoColor=black) 
+![CARLA](https://img.shields.io/badge/CARLA-000000?style=for-the-badge&logo=carla&logoColor=white)
 
 ---
 
