@@ -65,8 +65,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8e975bd6-4195-4c5d-9c57-072b3f3b9ce4" height="230" />
-  <img src="https://github.com/user-attachments/assets/0139795d-a2a9-488f-bbf7-27c67f4ba351" height="230" />
+  <img src="https://github.com/user-attachments/assets/8e975bd6-4195-4c5d-9c57-072b3f3b9ce4" height="200" />
+  <img src="https://github.com/user-attachments/assets/0139795d-a2a9-488f-bbf7-27c67f4ba351" height="200" />
 </p>
 <p align="center">
   <strong>Simulator Environment</strong> | <strong>3D BBox Top-View Refinement</strong>
