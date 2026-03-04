@@ -47,6 +47,7 @@
 ---
 
 ### 🎥 Research Visualization
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b9a0ac44-75c4-4da0-b93d-1f5a647bb6ca" height="220" />
   <img src="https://github.com/user-attachments/assets/35b3a613-b7fe-44aa-8a4d-b9b4707a2373" height="220" />
@@ -62,3 +63,13 @@
 <p align="center">
   <strong>Real-world</strong> | <strong>CARLA Digital Twin Map</strong>
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8e975bd6-4195-4c5d-9c57-072b3f3b9ce4" height="230" />
+  <img src="https://github.com/user-attachments/assets/0139795d-a2a9-488f-bbf7-27c67f4ba351" height="230" />
+</p>
+<p align="center">
+  <strong>Simulator Environment</strong> | <strong>3D BBox Top-View Refinement</strong>
+</p>
+
+---
