@@ -27,10 +27,10 @@
 
 ### 📊 GitHub Activity
 <p align="left">
-  <img src="./profile/stats.svg" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=utsi09&repo=Algorithm-Study&theme=dark" width="48%" /> <br/>
-  <img src="./profile/langs.svg" width="48%" />
-  <img src="https://mazandi.herokuapp.com/api?handle=utsi09&theme=warm" width="48%" />
+  <img src="./profile/stats.svg" width="400" />
+  <br/>
+  <img src="./profile/langs.svg" width="400" />
+  <img src="https://mazandi.herokuapp.com/api?handle=utsi09&theme=warm" width="400" />
 </p>
 <p align="left">
   <a href="https://solved.ac/utsi09">
