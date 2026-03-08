@@ -1,6 +1,5 @@
 # 🚀 Research & Development
 
-
 ### 🔬 Focus Area
 * **Master's Candidate at SKKU**
 * **Specialization**: Fail-safe systems & Digital Twin & 3D Bounding Box Perception for Autonomous Vehicles 
@@ -29,8 +28,12 @@
 ### 📊 GitHub Activity
 <p align="left">
   <img src="./profile/stats.svg" width="400" />
+  <img src="https://mazandi.herokuapp.com/api?handle=utsi09&theme=warm" width="400" />
   <br/>
   <img src="./profile/langs.svg" width="400" />
+  <a href="https://solved.ac/utsi09">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=utsi09" width="400" />
+  </a>
 </p>
 
 ---
@@ -71,5 +74,3 @@
 <p align="center">
   <strong>Simulator Environment</strong> | <strong>3D BBox Top-View Refinement</strong>
 </p>
-
----
