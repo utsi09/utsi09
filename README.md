@@ -33,11 +33,11 @@
   <img src="./profile/langs.svg" width="400" />
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://solved.ac/utsi09">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=utsi09" width="400" />
   </a>
-</p>
+</p> -->
 
 ---
 ### 📝 Selected Publications
